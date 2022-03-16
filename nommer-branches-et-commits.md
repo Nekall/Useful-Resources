@@ -16,6 +16,7 @@ En premier lieu le ‘type’ suivis d'un slash puis le ‘subject’.
 -   **bugfix**: Correction d’un bug;
 -   **chore**: Nettoyage du code;
 -   **refactor**: Modification n’ajoutant pas de fonctionnalités ni de correction de bug.
+-   **spelling**: Correction de fautes d'orthographes.
     
 ### Le nom de la branche
 
