@@ -1,9 +1,10 @@
-**Légende : **   
+**Légende :**   
 💰 = Payant (Sans solutions gratuites)   
 💸 = Amorce gratuite, puis payant (Période de test gratuite)   
 🪙 = Gratuit avec une solution premium payante. (Gratuit sans limitation dans le temps)   
 🆓 = Gratuit (Sans solutions payantes)   
    
+___
    
 **IDE :**    
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
