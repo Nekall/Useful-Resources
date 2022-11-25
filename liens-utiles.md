@@ -7,7 +7,38 @@
 *(Il se peut qu'avec le temps certains sites changent leurs business-modèles)*      
          
 ___
-   
+
+**Sites utiles :**    
+https://picsum.photos/      
+https://www.remove.bg/fr      
+https://pfpmaker.com/      
+https://compressor.io/      
+https://cssgradient.io/      
+https://neumorphism.io/#e0e0e0
+https://animista.net/      
+https://fontjoy.com/      
+https://logoipsum.com/      
+https://carbon.now.sh/      
+https://poet.so/      
+https://browserframe.com/      
+https://box-shadow.dev/      
+https://readme.so      
+https://metatags.io/      
+https://favicon.io/      
+https://unminify.com/      
+https://forthebadge.com/      
+https://www.sejda.com/      
+https://musicforprogramming.net/latest/      
+https://squoosh.app/      
+https://ihateregex.io/
+https://www.unscreen.com/      
+http://colormind.io/      
+https://colors.lol/      
+https://coolors.co/      
+https://jdan.github.io/98.css/      
+https://www.shapedivider.app/       
+      
+            
 **IDE :**    
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
    
@@ -27,7 +58,15 @@ https://app.diagrams.net/ (Éditeur de diagrammes) 🆓
 https://colorspectrum.design (Génération de palettes de couleurs) 🪙   
    
       
-**Icons & SVG :**   
+**Icons & SVG :**    
+https://css.gg/app 🆓     
+https://remixicon.com/ 🆓     
+https://iconscout.com/unicons/explore/line 🪙
+https://www.svgrepo.com/ 🆓     
+https://feathericons.com/ 🆓       
+https://akveo.github.io/eva-icons/#/ 🆓      
+https://heroicons.dev/ 🆓     
+https://ionic.io/ionicons 🆓   
 https://simpleicons.org/ 🆓   
 https://icons.modulz.app 🆓   
 https://heroicons.com/ 🆓   
