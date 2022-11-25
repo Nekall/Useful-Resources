@@ -14,7 +14,7 @@ https://www.remove.bg/fr
 https://pfpmaker.com/      
 https://compressor.io/      
 https://cssgradient.io/      
-https://neumorphism.io/#e0e0e0
+https://neumorphism.io/#e0e0e0      
 https://animista.net/      
 https://fontjoy.com/      
 https://logoipsum.com/      
@@ -30,7 +30,7 @@ https://forthebadge.com/
 https://www.sejda.com/      
 https://musicforprogramming.net/latest/      
 https://squoosh.app/      
-https://ihateregex.io/
+https://ihateregex.io/      
 https://www.unscreen.com/      
 http://colormind.io/      
 https://colors.lol/      
@@ -61,7 +61,7 @@ https://colorspectrum.design (Génération de palettes de couleurs) 🪙
 **Icons & SVG :**    
 https://css.gg/app 🆓     
 https://remixicon.com/ 🆓     
-https://iconscout.com/unicons/explore/line 🪙
+https://iconscout.com/unicons/explore/line 🪙      
 https://www.svgrepo.com/ 🆓     
 https://feathericons.com/ 🆓       
 https://akveo.github.io/eva-icons/#/ 🆓      
