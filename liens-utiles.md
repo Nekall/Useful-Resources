@@ -100,6 +100,7 @@ https://www.fontshare.com/ 🆓
 https://freetypography.com/ 🆓      
 https://www.fontspace.com/ 🆓      
 https://fonts.google.com/ 🆓      
+https://www.fontbuddies.com/ 🆓      
       
       
 **APIs :**   
