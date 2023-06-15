@@ -7,8 +7,22 @@
 *(Il se peut qu'avec le temps certains sites changent leurs business-modèles)*      
          
 ___
+**Sommaire :**
 
-**Sites utiles :**    
+- [Sites utiles](#sites-utiles)
+- [IDE](#ide)
+- [Déploiements](#déploiements)
+- [Envoyer des fichiers](#envoyer-des-fichiers)
+- [Visuel](#visuel)
+- [Icons & SVG](#icons--svg)
+- [Images](#images)
+- [Videos](#videos)
+- [Fonts](#fonts)
+- [APIs](#apis)
+- [Random USERS](#random-users)
+
+
+## Sites utiles
 https://picsum.photos/      
 https://www.remove.bg/fr      
 https://pfpmaker.com/      
@@ -36,29 +50,26 @@ http://colormind.io/
 https://colors.lol/      
 https://coolors.co/      
 https://jdan.github.io/98.css/      
-https://www.shapedivider.app/       
-      
-            
-**IDE :**    
+https://www.shapedivider.app/   
+
+## IDE
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
-   
-**Déploiements :**    
+
+## Déploiements
 https://vercel.com/ 🪙    
 https://replit.com 🪙
-      
-**Envoyer des fichiers :**   
+
+## Envoyer des fichiers
 https://fromsmash.com/ 🆓   
 https://goopics.net 🆓   
 https://wetransfer.com/ 🆓   
-   
-   
-**Visuel :**   
+
+## Visuel
 https://lucid.co/ (Éditeur de diagrammes) 🪙   
 https://app.diagrams.net/ (Éditeur de diagrammes) 🆓   
 https://colorspectrum.design (Génération de palettes de couleurs) 🪙   
-   
-      
-**Icons & SVG :**    
+
+## Icons & SVG
 https://css.gg/app 🆓     
 https://remixicon.com/ 🆓     
 https://iconscout.com/unicons/explore/line 🪙      
@@ -77,10 +88,9 @@ https://illlustrations.co/ 🆓
 https://remixicon.com/ 🆓      
 https://iconmonstr.com/ 🆓      
 https://www.iconfinder.com/ 🆓     
-https://www.mingcute.com/ 🆓     
-      
-      
-**Images :**      
+https://www.mingcute.com/ 🆓    
+
+## Images
 https://o-dan.net/en/ 🆓      
 https://www.pexels.com 🆓      
 https://www.freepik.com/ 🆓      
@@ -88,25 +98,22 @@ https://pixabay.com 🆓
 https://thisxdoesnotexist.com/ 🆓      
 https://unsplash.com/ 🪙      
 https://heropatterns.com/ (Collection de motifs d'arrière-plan SVG reproductibles) 🆓         
-https://stocksnap.io/ 🆓      
-   
-   
-**Videos :**      
+https://stocksnap.io/ 🆓   
+
+## Videos
 https://mixkit.co/ 🪙      
-https://coverr.co/ 🪙 (format original payant)      
-      
-**Fonts :**   
+https://coverr.co/ 🪙 (format original payant)  
+
+## Fonts
 https://www.fontshare.com/ 🆓      
 https://freetypography.com/ 🆓      
 https://www.fontspace.com/ 🆓      
 https://fonts.google.com/ 🆓      
-https://www.fontbuddies.com/ 🆓      
-      
-      
-**APIs :**   
-https://jsonplaceholder.typicode.com/ 🆓   
-      
-**Random USERS :**      
+https://www.fontbuddies.com/ 🆓  
+
+## APIs
+https://jsonplaceholder.typicode.com/ 🆓  
+
+## Random USERS
 https://xsgames.co/randomusers/ 🆓      
-https://randomuser.me/ 🆓      
-      
+https://randomuser.me/ 🆓 
