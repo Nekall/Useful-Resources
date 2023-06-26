@@ -20,7 +20,10 @@ ___
 - [Fonts](#fonts)
 - [APIs](#apis)
 - [Random USERS](#random-users)
-
+- [IA](#ia)
+- [Jeux Dev](#jeux-dev)
+- [Documentation](#documentation)
+- [Base de données](#base-de-données)
 
 ## Sites utiles
 https://picsum.photos/      
@@ -51,7 +54,20 @@ https://colors.lol/
 https://coolors.co/      
 https://jdan.github.io/98.css/      
 https://www.shapedivider.app/   
+https://www.photopea.com/      
+https://responsivebreakpoints.com/      
+https://bgjar.com/       
+https://haikei.app/      
+https://jakearchibald.github.io/svgomg/      
+https://artboard.studio/        
+https://create.vista.com        
+https://mixkit.co/            
+https://dopeui.co/          
+https://spline.design/        
+https://compressor.io/          
+https://alternativeto.net/       
 
+      
 ## IDE
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
 
@@ -117,3 +133,21 @@ https://jsonplaceholder.typicode.com/ 🆓
 ## Random USERS
 https://xsgames.co/randomusers/ 🆓      
 https://randomuser.me/ 🆓 
+
+## IA      
+https://www.bluewillow.ai/ 🆓         
+
+## Jeux dev      
+https://codecombat.com/      
+https://www.codingame.com/      
+https://www.codewars.com/      
+https://code.golf/      
+            
+## Documentation      
+(Creation de documentation)      
+https://www.docz.site/      
+
+## Base de données        
+https://supabase.com/      
+https://firebase.google.com/      
+https://www.mongodb.com/      
