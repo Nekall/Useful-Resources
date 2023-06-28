@@ -26,35 +26,34 @@ ___
 - [Base de données](#base-de-données)
 
 ## Sites utiles
-https://picsum.photos/      
-https://www.remove.bg/fr      
-https://pfpmaker.com/      
-https://compressor.io/      
-https://cssgradient.io/      
-https://neumorphism.io/#e0e0e0      
-https://animista.net/      
-https://fontjoy.com/      
-https://logoipsum.com/      
-https://carbon.now.sh/      
-https://poet.so/      
-https://browserframe.com/      
-https://box-shadow.dev/      
-https://readme.so      
-https://metatags.io/      
-https://favicon.io/      
-https://unminify.com/      
-https://forthebadge.com/      
-https://www.sejda.com/      
-https://musicforprogramming.net/latest/      
-https://squoosh.app/      
-https://ihateregex.io/      
-https://www.unscreen.com/      
-http://colormind.io/      
-https://colors.lol/      
-https://coolors.co/      
-https://jdan.github.io/98.css/      
-https://www.shapedivider.app/   
-https://www.photopea.com/      
+https://picsum.photos/ 🆓      
+https://www.remove.bg/fr 🆓     
+https://pfpmaker.com/ 🆓      
+https://compressor.io/ 🪙       
+https://cssgradient.io/ 🆓      
+https://neumorphism.io/#e0e0e0 🆓      
+https://animista.net/ 🆓      
+https://fontjoy.com/ 🆓      
+https://logoipsum.com/  🆓      
+https://carbon.now.sh/ 🆓      
+https://poet.so/ 🆓         
+https://box-shadow.dev/ 🆓      
+https://readme.so 🆓      
+https://metatags.io/ 🆓      
+https://favicon.io/ 🆓      
+https://unminify.com/ 🆓      
+https://forthebadge.com/ 🆓      
+https://www.sejda.com/ 🆓      
+https://musicforprogramming.net/latest/ 🆓      
+https://squoosh.app/ 🆓      
+https://ihateregex.io/ 🆓     
+https://www.unscreen.com/ 💰      
+http://colormind.io/ 🆓      
+https://colors.lol/ 🆓      
+https://coolors.co/ 🪙      
+https://jdan.github.io/98.css/ 🆓      
+https://www.shapedivider.app/ 🆓   
+https://www.photopea.com/ 🪙      
 https://responsivebreakpoints.com/      
 https://bgjar.com/       
 https://haikei.app/      
@@ -138,16 +137,16 @@ https://randomuser.me/ 🆓
 https://www.bluewillow.ai/ 🆓         
 
 ## Jeux dev      
-https://codecombat.com/      
-https://www.codingame.com/      
-https://www.codewars.com/      
-https://code.golf/      
+https://codecombat.com/ 🆓      
+https://www.codingame.com/ 🆓     
+https://www.codewars.com/ 🪙      
+https://code.golf/ 🆓      
             
 ## Documentation      
 (Creation de documentation)      
-https://www.docz.site/      
+https://www.docz.site/ 🆓      
 
 ## Base de données        
-https://supabase.com/      
-https://firebase.google.com/      
-https://www.mongodb.com/      
+https://supabase.com/ 🪙     
+https://firebase.google.com/ 🪙      
+https://www.mongodb.com/ 🪙      
