@@ -55,6 +55,9 @@ Le type du commit décrit l’origine du changement. Il peut prendre différente
 -   **style**: Changement lié au style du code (indentation, point virgule, etc.);
 -   **test**: Ajout ou modification de tests;
 -   **revert**: Annulation d’un précédent commit;
+-   **ci**: Ajout ou modification de la configuration des fichiers et/ou script du CI
+-   **perf**: Mise à jour du code dans le but d'optimiser les performances
+-   **test**: Mise en place, edition, suppression de tests
 
 #### Le sujet
 
