@@ -4,7 +4,11 @@
 
 Le format du nom de la branches est le suivant :
 
-    <type>/<subject>
+
+```mermaid
+flowchart LR
+    type --- / --- subject
+```
 
 En premier lieu le ‘type’ suivis d'un slash puis le ‘subject’.
 
@@ -26,19 +30,37 @@ Le nom de la branche décrit succinctement le but de celle-ci. Certaines règles
 -   Le nom doit respecter la convention kebab-case (les mots doivent être en minuscule et liés par des tirets “-“);
   
 **﹥Quelques exemples**
-*feature/add-users-controller*
-*bugfix/profile-page-error*
-*experiment/try-api-key*
-*chore/remove-deprecated-method*
-*style/all-components*
+
+```mermaid
+flowchart LR
+    subgraph Exemple4
+        direction LR
+        feature-- / -->add-users-controller
+    end
+    subgraph Exemple3
+        direction LR
+        bugfix-- / -->profile-page-error
+    end
+    subgraph Exemple2
+        direction LR
+        experiment-- / -->try-api-key
+    end
+    subgraph Exemple1
+        direction LR
+        chore-- / -->remove-deprecated-method
+    end
+```
 
 ## Nommer les messages de commits 💬
 
 ### Format des commits
 
 Le format du commits est le suivant :
-
-    <type>: <subject>  
+    
+```mermaid
+flowchart LR
+    type --- : --- subject
+```
 
 En premier lieu le ‘type’ suivis de deux points, un espace et pour finir le ‘subject’.
 
@@ -67,8 +89,22 @@ Le sujet décrit succinctement la modification. Certaines règles doivent être 
 -   Les verbes doivent être à l’impératif (add, update, change, remove, etc.);
 -   Aucunes majuscules
 -   Le sujet ne doit pas se terminer par un point.
+     
+**﹥Quelques exemples**     
 
-**﹥Quelques exemples**
-*style: navbar color change*
-*feat: footer modification*
-*fix: possibility to register without email*
+```mermaid
+flowchart LR
+    subgraph Exemple3
+        direction LR
+        fix-- : -->C[possibility to register without email]
+    end
+    subgraph Exemple2
+        direction LR
+        feat-- : -->B[add links on footer]
+    end
+    subgraph Exemple1
+        direction LR
+        docs-- : -->A[update readme]
+    end
+
+```
