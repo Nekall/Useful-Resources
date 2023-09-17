@@ -54,17 +54,17 @@ https://coolors.co/ 🪙
 https://jdan.github.io/98.css/ 🆓      
 https://www.shapedivider.app/ 🆓   
 https://www.photopea.com/ 🪙      
-https://responsivebreakpoints.com/      
-https://bgjar.com/       
-https://haikei.app/      
-https://jakearchibald.github.io/svgomg/      
-https://artboard.studio/        
-https://create.vista.com        
-https://mixkit.co/            
-https://dopeui.co/          
-https://spline.design/        
-https://compressor.io/          
-https://alternativeto.net/       
+https://responsivebreakpoints.com/ 🆓   
+https://bgjar.com/ 🆓      
+https://haikei.app/ 🪙       
+https://jakearchibald.github.io/svgomg/ 🆓      
+https://artboard.studio/ 🪙       
+https://create.vista.com 🪙       
+https://mixkit.co/ 🪙       
+https://dopeui.co/  🆓/🪙        
+https://spline.design/ 🪙       
+https://compressor.io/ 🪙       
+https://alternativeto.net/ 🆓      
 
       
 ## IDE
