@@ -65,7 +65,10 @@ https://dopeui.co/  🆓/🪙
 https://spline.design/ 🪙       
 https://compressor.io/ 🪙       
 https://alternativeto.net/ 🆓      
-
+https://namelix.com/      
+https://www.rebrandly.com/      
+https://calendly.com/fr      
+https://designer.microsoft.com/      
       
 ## IDE
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
