@@ -70,6 +70,10 @@ https://www.rebrandly.com/
 https://calendly.com/fr      
 https://designer.microsoft.com/      
 https://animatedbackgrounds.me/         
+https://omatsuri.app/      
+https://transform.tools/       
+https://rapidapi.com/hub      
+      
       
 ## IDE
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
