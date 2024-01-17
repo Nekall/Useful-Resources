@@ -65,14 +65,14 @@ https://dopeui.co/  🆓/🪙
 https://spline.design/ 🪙       
 https://compressor.io/ 🪙       
 https://alternativeto.net/ 🆓      
-https://namelix.com/      
-https://www.rebrandly.com/      
-https://calendly.com/fr      
+https://namelix.com/ 🆓      
+https://www.rebrandly.com/ 🪙      
+https://calendly.com/fr  🪙         
 https://designer.microsoft.com/      
-https://animatedbackgrounds.me/         
-https://omatsuri.app/      
-https://transform.tools/       
-https://rapidapi.com/hub      
+https://animatedbackgrounds.me/ 🆓      
+https://omatsuri.app/ 🆓      
+https://transform.tools/ 🆓      
+https://rapidapi.com/hub 🆓      
       
       
 ## IDE
@@ -112,6 +112,7 @@ https://remixicon.com/ 🆓
 https://iconmonstr.com/ 🆓      
 https://www.iconfinder.com/ 🆓     
 https://www.mingcute.com/ 🆓    
+https://lucide.dev/icons/ 🆓    
 
 ## Images
 https://o-dan.net/en/ 🆓      
