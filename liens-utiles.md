@@ -113,6 +113,12 @@ https://iconmonstr.com/ 🆓
 https://www.iconfinder.com/ 🆓     
 https://www.mingcute.com/ 🆓    
 https://lucide.dev/icons/ 🆓    
+https://patternpad.com/ 🆓    
+https://www.softr.io/tools/svg-shape-generator 🆓    
+https://www.svgeez.com/ 🆓    
+https://www.visiwig.com/patterns/ 🆓    
+https://pattern.monster/ 🆓    
+https://superdesigner.co/tools/patterns 🆓    
 
 ## Images
 https://o-dan.net/en/ 🆓      
