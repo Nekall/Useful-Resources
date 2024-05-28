@@ -24,6 +24,7 @@ ___
 - [Jeux Dev](#jeux-dev)
 - [Documentation](#documentation)
 - [Base de données](#base-de-données)
+- [Packages](#packages)
 
 ## Sites utiles
 https://picsum.photos/ 🆓      
@@ -73,7 +74,8 @@ https://animatedbackgrounds.me/ 🆓
 https://omatsuri.app/ 🆓      
 https://transform.tools/ 🆓      
 https://rapidapi.com/hub 🆓      
-      
+https://coolors.co/contrast-checker 🆓               
+
       
 ## IDE
 https://codeanywhere.com/ (Pour coder a plusieurs) 💰   
@@ -118,7 +120,11 @@ https://www.softr.io/tools/svg-shape-generator 🆓
 https://www.svgeez.com/ 🆓    
 https://www.visiwig.com/patterns/ 🆓    
 https://pattern.monster/ 🆓    
-https://superdesigner.co/tools/patterns 🆓    
+https://superdesigner.co/tools/patterns 🆓        
+https://shapes.framer.website/ 🆓      
+https://svgl.app/ 🆓       
+https://undraw.co/illustrations 🆓       
+
 
 ## Images
 https://o-dan.net/en/ 🆓      
@@ -165,3 +171,21 @@ https://www.docz.site/ 🆓
 https://supabase.com/ 🪙     
 https://firebase.google.com/ 🪙      
 https://www.mongodb.com/ 🪙      
+               
+## Packages              
+https://drag-and-drop.formkit.com/          
+https://pqina.nl/filepond/           
+https://fakerjs.dev/          
+https://www.chartjs.org/        
+https://recharts.org            
+https://floating-ui.com/           
+https://github.com/atomiks/tippyjs-react         
+https://wicky.nillia.ms/cally/            
+https://cmdk.paco.me/                
+https://photoswipe.com/                
+https://www.lightgalleryjs.com/           
+https://atomiks.github.io/tippyjs/             
+https://swiperjs.com/         
+https://sonner.emilkowal.ski/            
+https://vaul.emilkowal.ski/          
+https://neat.firecms.co/                   
